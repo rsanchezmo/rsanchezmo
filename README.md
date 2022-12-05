@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rsanchezm98
-- 👀 I’m interested in robotics, machine learning, ai, ros2, programming. Continuously learning. 
-- 💞️ I’m looking to collaborate on robotics projects. 
+- 👀 I’m interested in robotics, deep learning, reinforcement learning, ros2, software development. Continuously learning. 
+- 💞️ I’m looking to collaborate on robotics and artificial intelligence projects. 
 - 📫 You can reach me on rsanchezm98@gmail.com
 
 <!---
