@@ -1,6 +1,6 @@
 👋 Hello, I'm @rsanchezmo 👋
 
-Welcome to my GitHub profile. I am an enthusiastic engineer with a solid background in robotics and extensive experience in deep learning and deep reinforcement learning.
+Welcome to my GitHub profile. I am an enthusiastic researcher with a solid background in robotics and extensive experience in deep learning and deep reinforcement learning.
 
 🎓 Education
 
