@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I am an enthusiastic researcher with a solid backg
 
 - **SENER Aerospacial**: Worked on autonomous vehicle perception using sensors like cameras, radars, and lidars. This experience allowed me to grasp the complexities and challenges of autonomous navigation. I really enjoyed this field and boosted me to start with AI.
 - **INDRA**: Currently applying my knowledge in the exciting field of Deep Reinforcement Learning, working on cutting-edge projects and contributing to innovative solutions in the machine learning domain. I also have experience in Deep Learning by implementing SOTA architechtures such as transformers and other computer vision architectures.
-- **ICAI**: Sharing my knowledge on computer vision and robotics as associate professor at Universidad Ponticia de Comillas. My goal is to inspire the next generation of tech enthusiasts, blending my practical experience with academic rigor to foster a dynamic learning environment.
+- **ICAI**: Sharing my knowledge on computer vision, reinforcement learning and robotics as associate professor at Universidad Ponticia de Comillas. My goal is to inspire the next generation of tech enthusiasts, blending my practical experience with academic rigor to foster a dynamic learning environment.
   
 🤖 Technical Skills
 
